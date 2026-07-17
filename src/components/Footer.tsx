@@ -60,8 +60,8 @@ export default function Footer() {
               of code to a career-ready skillset. Learn. Build. Get hired.
             </p>
             <div className="mt-6 space-y-2.5 text-sm">
-              <a href="mailto:infonexhorizon@gmail.com" className="flex items-center gap-2.5 text-ink-400 transition-colors hover:text-white">
-                <Mail className="h-4 w-4 text-brand-400" /> infonexhorizon@gmail.com
+              <a href="mailto:info@nexhorizon.in" className="flex items-center gap-2.5 text-ink-400 transition-colors hover:text-white">
+                <Mail className="h-4 w-4 text-brand-400" /> info@nexhorizon.in
               </a>
               <a href="tel:+919491561039" className="flex items-center gap-2.5 text-ink-400 transition-colors hover:text-white">
                 <Phone className="h-4 w-4 text-brand-400" /> 9491561039

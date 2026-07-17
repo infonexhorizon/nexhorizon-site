@@ -2,7 +2,7 @@ import { Mail, Phone, MapPin, Clock, MessageSquare } from 'lucide-react';
 import BackToHome from '../components/BackToHome';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email us', value: 'infonexhorizon@gmail.com', href: '#' },
+  { icon: Mail, label: 'Email us', value: 'info@nexhorizon.in', href: '#' },
   { icon: Phone, label: 'Call us', value: '9491561039', href: '#' },
   { icon: MapPin, label: 'Visit us', value: '129, Dasarimatam Area, RC road, Tirupati, Andhra Pradesh', href: '#' },
   { icon: Clock, label: 'Office hours', value: '10:00 AM - 05:00 PM', href: '#' },
